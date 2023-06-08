@@ -1,0 +1,83 @@
+*{margin: 0;
+padding: 0;}
+
+section h2{
+    font-size: 50px;
+    margin: 10px 0;
+    color:gold;
+    text-align: center;
+}
+section p{ 
+    color: rgb(165, 155, 42);
+}
+.para-2{
+    color: rgb(53,9,154);
+    text-align: center;
+}
+
+.section1{
+    background-image: url(3409297.jpg);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-position:cover;
+padding: 10rem 0;
+text-align: center;
+
+}
+.section1 p{
+font-size: 20px;
+
+}
+.global-btn{
+    width: 100px;
+    height: 30px;
+background-color: rgb(53, 9, 154);
+color: rgb(201, 208, 215);
+   }
+
+.section2{
+    padding: 20px;
+}
+.heading2{ 
+    font-size: 55px;
+    text-align: center;
+    color: blue;
+}
+.para-3{
+text-align:center ;
+}
+.about-main-div{
+    display: flex;
+    align-items: center;
+}
+
+.about-sub-div{width:500px;
+}
+.about-sub-div p{
+    color:rgb(84, 22, 207);
+    margin:15px 0;
+}
+.about-sub-div h2{
+    font-size: 33px;
+    color: blue;
+}
+.section3{
+    background-color: rgb(187, 185, 209);
+}
+.section2{
+    background-color: rgb(187, 185, 209);
+}
+
+
+.grid-container{
+    display:grid;
+    grid-template-columns:auto auto auto;
+
+}
+.grid-single-item{
+    padding: 5px;
+    text-align: center;
+}
+.castom-icon-size{
+    font:45px
+}
